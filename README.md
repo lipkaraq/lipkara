@@ -1,0 +1,2 @@
+# lipkara
+pascal triangle
